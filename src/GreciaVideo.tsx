@@ -34,7 +34,7 @@ const SCENES = [
   {
     image: "livro11/Cena_03_Filosofia_Socrates_Platao_e_.png",
     title: "Filosofia",
-    subtitle: "Sócrates, Platão e Aristóteles",
+    subtitle: "Sócrates, Platêo e Aristóteles",
   },
   {
     image: "livro11/Cena_04_Os_Jogos_Olimpicos.png",
@@ -359,7 +359,7 @@ const IntroCard: React.FC = () => {
             letterSpacing: "3px",
           }}
         >
-          O Berço da Civilização
+          O Berço da Civilizaçêo
         </div>
       </div>
     </AbsoluteFill>
@@ -428,7 +428,7 @@ const OutroCard: React.FC = () => {
         >
           "A Grécia pode ser antiga,
           <br />
-          mas as ideias dela são do futuro."
+          mas as ideias dela sêo do futuro."
         </div>
 
         <div

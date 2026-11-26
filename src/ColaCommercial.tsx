@@ -171,7 +171,7 @@ const BottomGradient: React.FC<{ height?: string; opacity?: number }> = ({
 );
 
 // ══════════════════════════════════
-// CENA 1 - Apresentação do Produto
+// CENA 1 - Apresentaçêo do Produto
 // ══════════════════════════════════
 const Cena1: React.FC = () => {
   const frame = useCurrentFrame();
