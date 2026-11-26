@@ -92,7 +92,7 @@
 
 [PIX-Z]: Generos teatrais gregos: tragedia (conflitos humanos profundos, autores como Sofocles e Euripides) e comedia (satira social, Aristofanes). Apresentados em festivais dedicados a Dioniso.
 
-[Valen]: Entao cinema, novela, serie — tudo veio disso?
+[Valen]: Entao cARCKHÉ, novela, serie — tudo veio disso?
 
 [Professor]: A estrutura narrativa, sim. Conflito, climax, resolucao. Os gregos criaram a formula que toda historia ainda segue.
 

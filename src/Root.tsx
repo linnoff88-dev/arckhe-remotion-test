@@ -1,6 +1,6 @@
 import React from "react";
 import { Composition } from "remotion";
-import { CinematicVideo } from "./CinematicVideo";
+import { CARCKHÉticVideo } from "./CARCKHÉticVideo";
 import { GreciaVideo } from "./GreciaVideo";
 import { ColaFreshVideo } from "./ColaFreshVideo";
 import { ColaCommercial } from "./ColaCommercial";
@@ -10,8 +10,8 @@ export const RemotionRoot: React.FC = () => {
   return (
     <>
       <Composition
-        id="CinematicVideo"
-        component={CinematicVideo}
+        id="CARCKHÉticVideo"
+        component={CARCKHÉticVideo}
         durationInFrames={375}
         fps={30}
         width={1920}

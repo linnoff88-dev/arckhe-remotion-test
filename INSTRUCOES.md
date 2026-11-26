@@ -31,15 +31,15 @@ remotion-test/
 ├── src/
 │   ├── index.ts              # registerRoot (entry point)
 │   ├── Root.tsx               # Compositions registradas
-│   ├── CinematicVideo.tsx     # Video 1: cinematic motivacional
+│   ├── CARCKHÉticVideo.tsx     # Video 1: cARCKHÉtic motivacional
 │   └── GreciaVideo.tsx        # Video 2: livro Grecia Antiga
 ├── public/
 │   └── livro11/               # Imagens do livro (PNG)
 ├── books/
 │   └── livro11/               # Fonte: imagens + story.md
 ├── out/                       # Videos renderizados
-│   ├── cinematic.mp4          # v1 sem skill
-│   ├── cinematic-v2.mp4       # v2 com skill
+│   ├── cARCKHÉtic.mp4          # v1 sem skill
+│   ├── cARCKHÉtic-v2.mp4       # v2 com skill
 │   └── grecia-antiga.mp4      # Video do livro
 ├── package.json
 └── tsconfig.json
@@ -87,7 +87,7 @@ npx remotion render MeuVideo out/meu-video.mp4 --crf 18
 
 ---
 
-## Video 1: Cinematic Motivacional (cinematic-v2.mp4)
+## Video 1: CARCKHÉtic Motivacional (cARCKHÉtic-v2.mp4)
 
 **Spec**: 12s, 1920x1080, 30fps, 4 cenas
 

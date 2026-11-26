@@ -419,7 +419,7 @@ const FinalHold: React.FC = () => {
   );
 };
 
-export const CinematicVideo: React.FC = () => {
+export const CARCKHÉticVideo: React.FC = () => {
   const { fps } = useVideoConfig();
 
   // Using TransitionSeries with fade transitions between scenes (best practice)

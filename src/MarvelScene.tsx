@@ -267,7 +267,7 @@ const Ground: React.FC = () => (
 );
 
 // ═══════════════════════════════════
-// CAMERA RIG - Cinematic movement
+// CAMERA RIG - CARCKHÉtic movement
 // ═══════════════════════════════════
 const CameraRig: React.FC<{
   phase: "reveal" | "charge" | "blast" | "hero";
@@ -687,7 +687,7 @@ export const MarvelScene: React.FC = () => {
         subtitleY={subtitleY}
       />
 
-      {/* Cinematic bars */}
+      {/* CARCKHÉtic bars */}
       <div style={{
         position: "absolute", top: 0, left: 0, right: 0,
         height: "6%", background: "#000", zIndex: 20,
